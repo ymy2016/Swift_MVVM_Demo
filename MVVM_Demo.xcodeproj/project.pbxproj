@@ -71,8 +71,6 @@
 			isa = PBXGroup;
 			children = (
 				CD9935B91ED01DF2002B8A68 /* FBKVOController */,
-				CD9935A11ED01D1A002B8A68 /* AppDelegate.swift */,
-				CD9935A31ED01D1A002B8A68 /* ViewController.swift */,
 				CD9935C71ED04431002B8A68 /* MVVM */,
 				CD9935C61ED021AC002B8A68 /* ObjecttiveCBridge.h */,
 				CD9935A51ED01D1A002B8A68 /* Main.storyboard */,
@@ -99,6 +97,8 @@
 		CD9935C71ED04431002B8A68 /* MVVM */ = {
 			isa = PBXGroup;
 			children = (
+				CD9935A11ED01D1A002B8A68 /* AppDelegate.swift */,
+				CD9935A31ED01D1A002B8A68 /* ViewController.swift */,
 				CD9935B31ED01D7C002B8A68 /* WhModel.swift */,
 				CD9935B51ED01DA2002B8A68 /* WhView.swift */,
 				CD9935B71ED01DB0002B8A68 /* WhViewModel.swift */,
@@ -349,6 +349,7 @@
 				CD9935B21ED01D1A002B8A68 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
